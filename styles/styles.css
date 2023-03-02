@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Euphoria Script', cursive;
+    text-align: center;
+    background-color: lavender;
+}
+span{
+    display: flex;
+    justify-content: center;
+    color:red;
+    background-color: lavender;
+}
+body{
+ background-image: url(https://www.servnet.mx/hubfs/imagenes%20art%20sept/00%20Co%CC%81digo%20html_%20que%CC%81%20es%20y%20todo%20lo%20que%20debes%20saber.png);
+ background-size: cover;
+}
